@@ -1,3 +1,0 @@
-C:/CLionProjects/rotating_cube/cmake-build-debug/CMakeFiles/rotating_cube.dir
-C:/CLionProjects/rotating_cube/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/CLionProjects/rotating_cube/cmake-build-debug/CMakeFiles/rebuild_cache.dir
