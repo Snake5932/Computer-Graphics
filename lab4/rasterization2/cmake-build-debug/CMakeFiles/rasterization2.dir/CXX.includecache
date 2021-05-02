@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/CLionProjects/rasterization2/main.cpp
+cmath
+-
+iostream
+-
+vector
+-
+stack
+-
+GLFW/glfw3.h
+-
+
