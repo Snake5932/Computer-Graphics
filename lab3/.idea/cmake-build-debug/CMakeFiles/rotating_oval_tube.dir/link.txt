@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.3.5\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\rotating_oval_tube.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\rotating_oval_tube.dir/objects.a @CMakeFiles\rotating_oval_tube.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\rotating_oval_tube.dir/objects.a -Wl,--no-whole-archive  -o rotating_oval_tube.exe -Wl,--out-implib,librotating_oval_tube.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\rotating_oval_tube.dir\linklibs.rsp
