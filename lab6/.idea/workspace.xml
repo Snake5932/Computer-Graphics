@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="realisticTube" targetName="realisticTube" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="38b71193-1f32-440b-927a-1894ae603ab0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1svdspipcO3p3FszQ7NtU4dyAB9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\CLionProjects\realisticTube\textures" />
+      <recent name="C:\CLionProjects\realisticTube" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="realisticTube" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="realisticTube" TARGET_NAME="realisticTube" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="realisticTube" RUN_TARGET_NAME="realisticTube">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="534" y="222" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1622369582599">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="534" y="222" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1622369582599" />
+    <state width="1493" height="145" key="GridCell.Tab.0.bottom" timestamp="1622541288245">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="145" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1622541288245" />
+    <state width="1493" height="145" key="GridCell.Tab.0.center" timestamp="1622541288245">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="145" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1622541288245" />
+    <state width="1493" height="145" key="GridCell.Tab.0.left" timestamp="1622541288245">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="145" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1622541288245" />
+    <state width="1493" height="145" key="GridCell.Tab.0.right" timestamp="1622541288245">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="145" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1622541288245" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1622471973468">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1622471973468" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1622471973468">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1622471973468" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1622471973468">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1622471973468" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1622471973468">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1622471973468" />
+    <state x="522" y="351" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1622371657785">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="522" y="351" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1536.824@0.0.1536.824" timestamp="1622371657785" />
+  </component>
+</project>

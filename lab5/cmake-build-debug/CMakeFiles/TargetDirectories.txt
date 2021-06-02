@@ -1,0 +1,3 @@
+C:/CLionProjects/testClipping2/cmake-build-debug/CMakeFiles/testClipping2.dir
+C:/CLionProjects/testClipping2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/CLionProjects/testClipping2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
