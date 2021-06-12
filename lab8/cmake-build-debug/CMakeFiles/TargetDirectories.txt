@@ -1,0 +1,3 @@
+C:/CLionProjects/shaders/cmake-build-debug/CMakeFiles/shaders.dir
+C:/CLionProjects/shaders/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/CLionProjects/shaders/cmake-build-debug/CMakeFiles/rebuild_cache.dir
